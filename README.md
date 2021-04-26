@@ -1,3 +1,3 @@
 # Codewars
 
-solved codewars problems 
+solved __codewars__ problems 
